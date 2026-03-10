@@ -2,7 +2,7 @@
 layout: page
 title: Zweite Seite
 permalink: /second_page.md/
-nav_order: 2
+nav_order: 3
 ---
 
 ---
