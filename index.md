@@ -2,6 +2,7 @@
 layout: default
 title: Willkommen auf meiner Seite
 permalink: /
+nav_order: 1
 ---
 
 # Griaß eich! Das ist meine Jekyll-Seite.
