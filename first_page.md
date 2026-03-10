@@ -1,5 +1,5 @@
 ---
-title: first_page
+title: Erste Seite
 permalink: /first_page.md/
 nav_order: 2
 ---
