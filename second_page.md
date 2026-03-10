@@ -3,7 +3,9 @@ layout: page
 title: Zweite Seite
 permalink: /second_page.md/
 nav_order: 2
+---
 
+---
 # Du hast es zu meiner 2ten Seite geschafft :D
 ## Jetzt erklär ich dir wie man eine Seite wie diese schnell erstellt.
 ---
