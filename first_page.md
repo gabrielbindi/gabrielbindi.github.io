@@ -1,7 +1,7 @@
 ---
 title: Erste Seite
 permalink: /first_page.md/
-nav_order: 3
+nav_order: 2
 ---
 # Grüße Gemüse
 ## zu meinem kleinen Markdown und Jekyll Guide
