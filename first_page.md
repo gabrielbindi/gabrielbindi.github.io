@@ -1,5 +1,5 @@
 ---
-title: Home
+title: first_page
 ---
 # Grüße Gemüse
 ## zu meinem kleinen Markdown und Jekyll Guide
