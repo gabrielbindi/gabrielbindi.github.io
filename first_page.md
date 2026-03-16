@@ -45,8 +45,8 @@ nav_order: 2
 
 ## Horizontale Linien
 {
-"Diese Art" : `---`,
-"Oder Diese Art": `***`
+"Diese Art" : "---",
+"Oder Diese Art": "***"
 }
 ---
 
