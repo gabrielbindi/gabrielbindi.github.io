@@ -44,11 +44,12 @@ nav_order: 2
 ---
 
 ## Horizontale Linien
+```json
 {
 "Diese Art" : "---",
 "Oder Diese Art": "***"
 }
----
+```
 
 ## Bilder einfügen
 "! [alt text] (image.jpg)"
